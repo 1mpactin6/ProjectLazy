@@ -6,19 +6,22 @@
  
 (**Project Lazy: A project about Hacks**) 
  
-#Planning
-1.	Coding:
-a.	Use code editors such as but not limited to VS Code, Cursor, and Windsurf
-b.	Use related code AIs or built-in extensions to write code and modify
-2.	Time Management:
-a.	Finish the main codes and research about IXL by March
-b.	Finish the main hack code or auto-answer by May
-c.	Finalize the codes and publish the repository by July
-3.	Time Control and Usage:
-a.	Finish everything by the Timeline deadline
-b.	Make this project flexible
+## Planning
 
-#Research and Statistics
+1.	Coding:
+ a.	Use code editors such as but not limited to VS Code, Cursor, and Windsurf
+ b.	Use related code AIs or built-in extensions to write code and modify
+
+2.	Time Management:
+ a.	Finish the main codes and research about IXL by March
+ b.	Finish the main hack code or auto-answer by May
+ c.	Finalize the codes and publish the repository by July
+
+4.	Time Control and Usage:
+ a.	Finish everything by the Timeline deadline
+ b.	Make this project flexible
+
+## Research and Statistics:
 •	Use AIs such as Poe: IntegratedResearch, ChatGPT, and Gemini to write codes and analyze the JS in IXL that detects
 •	Use CurlWget and related JS and CSS capture extension to get the inside code.
 •	Use Google developer tool, FireFox developer tool, and Microsoft Edge developer tool to capture internet information, use WireShark and related Wifi capture application to capture the hashes and connects
