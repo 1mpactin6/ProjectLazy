@@ -1,41 +1,27 @@
 # ProjectLazy
  A in-Development Public Project trying to find hacks on a learning website
 
-**<u><span></span></u>**
  
-**<u><span>Project Lazy</span></u>**
+### **Project Lazy**
  
-** ** **(** **Project Lazy: A project about Hacks** **)** 
+(**Project Lazy: A project about Hacks**) 
  
-***Planning*** 
- 
-<![if !supportLists]>1.       <![endif]>**Coding**:
- 
-<![if !supportLists]>a.       <![endif]>Use code editors such as but not limited to VS Code, Cursor, and Windsurf
- 
-<![if !supportLists]>b.       <![endif]>Use related code AIs or built-in extensions to write code and modify
- 
-<![if !supportLists]>2.       <![endif]>**Time Management**:
- 
-<![if !supportLists]>a.       <![endif]>Finish the main codes and research about IXL by March
- 
-<![if !supportLists]>b.       <![endif]>Finish the main hack code or auto-answer by May
- 
-<![if !supportLists]>c.       <![endif]>Finalize the codes and publish the repository by July
- 
-<![if !supportLists]>3.       <![endif]>**Time Control and Usage**:
- 
-<![if !supportLists]>a.       <![endif]>Finish everything by the Timeline deadline
- 
-<![if !supportLists]>b.       <![endif]>Make this project flexible
+#Planning
+1.	Coding:
+a.	Use code editors such as but not limited to VS Code, Cursor, and Windsurf
+b.	Use related code AIs or built-in extensions to write code and modify
+2.	Time Management:
+a.	Finish the main codes and research about IXL by March
+b.	Finish the main hack code or auto-answer by May
+c.	Finalize the codes and publish the repository by July
+3.	Time Control and Usage:
+a.	Finish everything by the Timeline deadline
+b.	Make this project flexible
 
-***Research and Statistics*** 
- 
-<![if !supportLists]>·       <![endif]>Use AIs such as Poe: IntegratedResearch, ChatGPT, and Gemini to write codes and analyze the JS in IXL that detects
- 
-<![if !supportLists]>·       <![endif]>Use CurlWget and related JS and CSS capture extension to get the inside code.
- 
-<![if !supportLists]>·       <![endif]>Use Google developer tool, FireFox developer tool, and Microsoft Edge developer tool to capture internet information, use WireShark and related Wifi capture application to capture the hashes and connects
+#Research and Statistics
+•	Use AIs such as Poe: IntegratedResearch, ChatGPT, and Gemini to write codes and analyze the JS in IXL that detects
+•	Use CurlWget and related JS and CSS capture extension to get the inside code.
+•	Use Google developer tool, FireFox developer tool, and Microsoft Edge developer tool to capture internet information, use WireShark and related Wifi capture application to capture the hashes and connects
 
 **Clear Vision**
  
